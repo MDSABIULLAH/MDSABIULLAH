@@ -11,10 +11,15 @@ I'm MD Sabiullah ✨, an aspiring Data Scientist passionate about using data to 
 Here's a glimpse of the technologies I specialize in:
 
 📈 Data Science & Analytics: Predictive Modeling, Machine Learning, Deep Learning, and NLP
+
 🤖 Machine Learning Frameworks: NumPy, Pandas, Scikit-learn, TensorFlow, Keras
+
 🧠 Tools & Platforms: Tableau, Power BI, Streamlit, Flask
+
 🗣️ Programming Languages: Python, SQL
+
 🔍 Visualization & EDA: Matplotlib, Seaborn
+
 🗄️ Cloud & Collaboration: Google Colab, Jupyter Notebook
 
 
