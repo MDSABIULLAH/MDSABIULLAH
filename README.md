@@ -13,11 +13,12 @@ Here's a glimpse of the technologies I specialize in:
 🗣️ Programming Languages: Python, SQL
 🔍 Visualization & EDA: Matplotlib, Seaborn
 🗄️ Cloud & Collaboration: Google Colab, Jupyter Notebook
+
+
 🌟 Key Projects
 Here are some projects I’m proud of:
 
-Tender Prediction for Indian Railways
-
+Tender Prediction for Indian Railways:
 Built a Lasso Regressor model achieving 95% accuracy in predicting tender prices.
 Integrated historical bid data and deployed a real-time prediction app using Streamlit.
 Personalized Recommender System for Gaming DVDs
