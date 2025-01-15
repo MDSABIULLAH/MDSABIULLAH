@@ -37,13 +37,16 @@ Blinkit Sales Analysis Dashboard
 
 Analyzed sales data across 8.5K grocery items and visualized trends using Power BI.
 Provided actionable insights to optimize sales strategies across multiple locations.
+
 📫 Let's Connect
 I’d love to collaborate with fellow data enthusiasts and industry experts. Let’s make data work for us! 🤝
 
 ✉️ Email: MDSABIULLAH321@gmail.com
-🔗 LinkedIn: MD Sabiullah
+🔗 LinkedIn: www.linkedin.com/in/md-sabiullah-8a12b2347
 🌐 Portfolio: https://github.com/MDSABIULLAH
+
 ⚡ Fun Fact
-I believe data is like a storybook — every dataset tells a unique story. 📖✨ When I’m not coding, you’ll find me exploring new places or diving into a good book. 📚🌍
+I believe data is like a storybook — every dataset tells a unique story. 
+📖✨ When I’m not coding, you’ll find me exploring new places or diving into a good book. 📚🌍
 
 Thank you for visiting my profile. Let’s create impactful data solutions together! 🎉
