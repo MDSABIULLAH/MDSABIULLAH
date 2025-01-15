@@ -41,8 +41,10 @@ Provided actionable insights to optimize sales strategies across multiple locati
 📫 Let's Connect
 I’d love to collaborate with fellow data enthusiasts and industry experts. Let’s make data work for us! 🤝
 
-✉️ Email: MDSABIULLAH321@gmail.com\n
+✉️ Email: MDSABIULLAH321@gmail.com
+
 🔗 LinkedIn: www.linkedin.com/in/md-sabiullah-8a12b2347
+
 🌐 Portfolio: https://github.com/MDSABIULLAH
 
 ⚡ Fun Fact
